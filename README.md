@@ -33,12 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sowmiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SowmiyaHualian&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect!
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_mnisam)
