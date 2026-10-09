@@ -1,5 +1,7 @@
 <div align="center">
 
+![banner](./assets/banner.svg)
+
 # ⚓ Sowmiya (Sam) ⚓
 ### ML Engineer · Embeddings · Ranking · LLM Agents
 *ML engineer by day, pirate at heart* 🏴‍☠️
