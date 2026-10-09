@@ -24,7 +24,7 @@ I speak Tamil, English, and some Japanese 🇯🇵
 ## ⚔️ 経験 · experience
 **ML Intern · FlyRank AI** *(Jul – Sep 2026)*
 - Worked on content scoring and ranking systems using Python, pandas, scikit-learn, and sentence-transformers.
-- Clustered 1,200 pages into 3 archetypes (KMeans, silhouette-validated): 57% steady performers, 17% declining veterans, 26% low-value noise, each mapped to a recommended action.
+- Built a KMeans archetype pipeline on a 1,200-page synthetic dataset mirroring FlyRank's schema (k=4 by silhouette 0.50, ARI 0.72 vs planted structure), mapping each archetype to a recommended action.
 <!-- Add one real result here, e.g. "- Improved X by Y%" -->
 
 ## 🗺️ now building
