@@ -16,18 +16,18 @@
 
 ## 🧭 自己紹介 · about
 ML engineer from Coimbatore, India. B.E. in Computer Science and Engineering from Anna University (BIT Campus, Trichy).
-I build with embeddings, clustering and ranking systems, and I'm now charting new waters in LLM agents.
+I build with embeddings, clustering, and ranking systems, and I'm now charting new waters in LLM agents.
 I speak Tamil, English, and some Japanese 🇯🇵
 
 ## ⚔️ 経験 · experience
 **ML Intern · FlyRank AI** *(Jul – Sep 2026)*
-- Worked on content scoring and ranking systems using Python, pandas, scikit-learn and sentence-transformers.
-- Built embedding and clustering workflows for content analysis.
+- Worked on content scoring and ranking systems using Python, pandas, scikit-learn, and sentence-transformers.
+- Clustered 1,200 pages into 3 archetypes (KMeans, silhouette-validated): 57% steady performers, 17% declining veterans, 26% low-value noise, each mapped to a recommended action.
 <!-- Add one real result here, e.g. "- Improved X by Y%" -->
 
 ## 🗺️ now building
 **🤖 Multi-agent LLM trading desk** *(in progress)*
-Analyst, trader and risk-manager agents that debate before reaching a decision. Repo link coming soon.
+Analyst, trader, and risk-manager agents that debate before reaching a decision. Repo link coming soon.
 
 ## 🛠️ スキル · stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
