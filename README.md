@@ -1,50 +1,50 @@
-# Hi there, I'm Sowmiya! 🤖✨
+<div align="center">
 
-- 🎓 B.E. Computer Science Graduate
-- 🧠 Aspiring AI/ML Engineer | LLMs & NLP Enthusiast
-- 🔍 Turning data into insights, one model at a time
+# ⚓ Sowmiya (Sam) ⚓
+### ML Engineer · Embeddings · Ranking · LLM Agents
+*ML engineer by day, pirate at heart* 🏴‍☠️
 
----
+[LinkedIn](https://www.linkedin.com/in/sowmiya-m-s-b6269329b) · [Email](mailto:sowmi.ms08@gmail.com)
 
-## 🧬 About Me
+*はじめまして! hajimemashite!* (◕‿◕)♡
 
-- 💼 Currently interning at **FlyRank** as a **Machine Learning Engineer**
-- 🤖 Passionate about building intelligent systems — LLM apps, embeddings, and NLP pipelines
-- ⚙️ Working hands-on with **FastAPI**, **scikit-learn**, and **sentence-transformers**
-- 📊 Comfortable across the ML workflow — data cleaning (pandas), embeddings, clustering, and API deployment
-- ☁️ Exploring cloud & security fundamentals (AWS Solutions Architecture, cybersecurity simulations)
-- 🚀 Open to AI/ML opportunities, collaborations, and interesting problems!
+<img src="https://media1.tenor.com/m/hECZL5qEY3AAAAAd/luffy-hi.gif" width="280" alt="One Piece GIF saying hi">
 
----
+</div>
 
-## 🛠️ Skills & Tools
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## 🧭 自己紹介 · about
+ML engineer from Coimbatore, India. B.E. in Computer Science and Engineering from Anna University (BIT Campus, Trichy).
+I build with embeddings, clustering and ranking systems, and I'm now charting new waters in LLM agents.
+I speak Tamil, English, and some Japanese 🇯🇵
 
----
+## ⚔️ 経験 · experience
+**ML Intern · FlyRank AI** *(Jul – Sep 2026)*
+- Worked on content scoring and ranking systems using Python, pandas, scikit-learn and sentence-transformers.
+- Built embedding and clustering workflows for content analysis.
+<!-- Add one real result here, e.g. "- Improved X by Y%" -->
 
-## 💼 Experience
+## 🗺️ now building
+**🤖 Multi-agent LLM trading desk** *(in progress)*
+Analyst, trader and risk-manager agents that debate before reaching a decision. Repo link coming soon.
 
-**Machine Learning Engineer Intern** @ FlyRank *(current)*
-Working on LLM-based applications, text embeddings, and clustering pipelines.
+## 🛠️ スキル · stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
----
+## ☕ off the clock
+Anime fan, and One Piece is my pick. I'm a pirate at heart, and always happy to talk ML, anime, or Japanese.
 
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 
-## 📜 Certifications
+<div align="center">
 
-- 🧩 Forage — Transformer Models Simulation
-- ☁️ Forage — AWS Solutions Architecture Job Simulation
-- 🔐 Forage — Cybersecurity Job Simulation
+<img src="https://giffiles.alphacoders.com/350/35043.gif" width="280" alt="One Piece GIF">
 
----
+*またね! mata ne! See you on the next voyage* ⚓
 
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowmiya-m-s-b6269329b)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/_mnisam)
+</div>
