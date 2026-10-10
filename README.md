@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](./assets/banner.svg)
+![banner](./assets/banner_art.svg)
 
 # ⚓ Sowmiya (Sam) ⚓
 ### ML Engineer · Embeddings · Ranking · LLM Agents
