@@ -23,9 +23,9 @@ I speak Tamil, English, and some Japanese 🇯🇵
 
 ## ⚔️ 経験 · experience
 **ML Intern · FlyRank AI** *(Jul – Sep 2026)*
-- Worked on content scoring and ranking systems using Python, pandas, scikit-learn, and sentence-transformers.
-- Built a KMeans archetype pipeline on a 1,200-page synthetic dataset mirroring FlyRank's schema (k=4 by silhouette 0.50, ARI 0.72 vs planted structure), mapping each archetype to a recommended action.
-<!-- Add one real result here, e.g. "- Improved X by Y%" -->
+- Built a KMeans content-archetype pipeline (log-scaled features, RobustScaler, k picked by silhouette; k=4, score 0.50) on a 1,200-page synthetic dataset modeled on FlyRank's search-warehouse schema.
+- Mapped clusters to actions (Protect, Rewrite/Refresh, Prune/Merge) with transparent reason codes, and checked the pipeline against planted structure (ARI 0.72).
+- 📂 [Capstone repo](https://github.com/SowmiyaHualian/flyrank-capstone-archetype-clustering)
 
 ## 🗺️ now building
 **🤖 Multi-agent LLM trading desk** *(in progress)*
